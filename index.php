@@ -9,13 +9,13 @@
 	<title>Proyecto academia HECTOR BOBADILLA MONTIEL</title>
 </head>
 <body background="images/golf.jpg" style="background-attachment: fixed" >
-	
-	<center>
-		<H1>HECTOR BOBADILLA MONTIEL</H1>
+	<H1>HECTOR BOBADILLA MONTIEL</H1>
 		<H2>ID:00062399</H2>
 		<H2>Correo: 00062399@red.unid.mx</H2>
 		<H2>Cloud Computing</H2>
 		<H2>Tarea 2</H2>
+	<center>
+		
 		<div class="tit"><h2 style="color: #0000FF; ">Inicio de sesión</h2>
 		<center><div class="Ingreso">
 
